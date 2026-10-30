@@ -1,0 +1,22 @@
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# Per-player save data and crash logs
+save.json
+best.json
+class.json
+challenge.json
+crash_log.txt
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
